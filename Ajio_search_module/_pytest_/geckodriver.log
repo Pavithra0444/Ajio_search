@@ -1,0 +1,134 @@
+1669452060278	geckodriver	INFO	Listening on 127.0.0.1:51967
+1669452060850	geckodriver	INFO	Listening on 127.0.0.1:51973
+1669610715632	geckodriver	INFO	Listening on 127.0.0.1:52535
+1669610716468	geckodriver	INFO	Listening on 127.0.0.1:52540
+1669610717175	geckodriver	INFO	Listening on 127.0.0.1:52545
+1669610717916	geckodriver	INFO	Listening on 127.0.0.1:52550
+1669610866093	geckodriver	INFO	Listening on 127.0.0.1:52711
+1669610866639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilejcpG5k"
+1669610868233	Marionette	INFO	Marionette enabled
+1669610868242	Marionette	INFO	Listening on port 52720
+Read port: 52720
+1669610868363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilejcpG5k\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669610891954	geckodriver	INFO	Listening on 127.0.0.1:52830
+1669610892441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileRzUWvB"
+1669610894563	Marionette	INFO	Marionette enabled
+1669610894577	Marionette	INFO	Listening on port 52843
+Read port: 52843
+1669610894752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileRzUWvB\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669610919224	geckodriver	INFO	Listening on 127.0.0.1:52949
+1669610919705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezmsCcu"
+1669610922025	Marionette	INFO	Marionette enabled
+1669610922037	Marionette	INFO	Listening on port 52959
+Read port: 52959
+1669610922254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezmsCcu\\search.json.mozlz4", (void 0)))
+[Parent 11344, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669611047698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+INFO	Listening on port 53073
+Read port: 53073
+1669610977800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilebY2Ud4\\search.json.mozlz4", (void 0)))
+[Parent 4452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669615015115	geckodriver	INFO	Listening on 127.0.0.1:58277
+1669615015646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileT0cVf4"
+1669615016373	Marionette	INFO	Marionette enabled
+1669615016379	Marionette	INFO	Listening on port 58286
+Read port: 58286
+1669615016475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileT0cVf4\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+"
+1669615054917	Marionette	INFO	Marionette enabled
+1669615054922	Marionette	INFO	Listening on port 58408
+Read port: 58408
+1669615055045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile0riWWa\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+[Parent 9820, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+mote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile0AsB3I"
+1669615097842	Marionette	INFO	Marionette enabled
+1669615097849	Marionette	INFO	Listening on port 58555
+Read port: 58555
+1669615097984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile0AsB3I\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+[Parent 13892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669615140351	geckodriver	INFO	Listening on 127.0.0.1:58671
+1669615140878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileSFi5XF"
+1669615141875	Marionette	INFO	Marionette enabled
+1669615141880	Marionette	INFO	Listening on port 58680
+Read port: 58680
+1669615142222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileSFi5XF\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669618927200	geckodriver	INFO	Listening on 127.0.0.1:60799
+1669618927750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezDaoRN"
+1669618928816	Marionette	INFO	Marionette enabled
+1669618928823	Marionette	INFO	Listening on port 60808
+Read port: 60808
+1669618929191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezDaoRN\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669619367820	Marionette	INFO	Stopped listening on port 60808
+[Parent 16280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileCqwXDC\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669621830232	Marionette	INFO	Stopped listening on port 60920
+9619336987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileGYiYgO"
+1669619338378	Marionette	INFO	Marionette enabled
+1669619338385	Marionette	INFO	Listening on port 61596
+Read port: 61596
+1669619338541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileGYiYgO\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669619859631	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1669621828440	Marionette	INFO	Stopped listening on port 61596
+[Parent 22424, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+
+Read port: 61956
+1669619492880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilecjRMQd\\search.json.mozlz4", (void 0)))
+1669619579090	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669621831563	Marionette	INFO	Stopped listening on port 61956
+68	Marionette	INFO	Listening on port 62081
+Read port: 62081
+1669619583940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileoj9cXO\\search.json.mozlz4", (void 0)))
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1669621832793	Marionette	INFO	Stopped listening on port 62081
